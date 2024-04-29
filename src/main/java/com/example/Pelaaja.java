@@ -16,7 +16,7 @@ public class Pelaaja {
     int voitot;
 
     /**
-     * pelaajanValinta-metodi tekee pelaajan valinnan.
+     * pelaajanValinta-metodi suorittaa pelaajan valinnan.
      * @param random Satunnaislukugeneraattori
      * @return Pelaajan valinta (kivi, paperi tai sakset).
      */
